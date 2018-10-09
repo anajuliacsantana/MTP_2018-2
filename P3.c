@@ -7,7 +7,6 @@ int main(){
 	char numero[256];
 	printf("\nInsira um numero:");
 	scanf("%s",numero);
-	printf("%s\n",numero);
 	for(i=0;numero[i]!='\0'; i++)
 	{
        if(numero[i] >='0' && numero[i] <='9' ) 
