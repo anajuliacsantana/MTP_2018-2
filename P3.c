@@ -1,6 +1,7 @@
 /*P3.c*/
 /* Ana Julia Costa Santana */
-/* 11811ETE003*/#include <stdio.h>
+/* 11811ETE003*/
+#include <stdio.h>
 
 int main(){
 	int i,cont=0;
