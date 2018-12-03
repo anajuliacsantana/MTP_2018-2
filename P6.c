@@ -1,4 +1,4 @@
-/*P3.c*/
+/*P6.c*/
 /* Ana Julia Costa Santana */
 /* 11811ETE003*/
 #include <stdio.h>
